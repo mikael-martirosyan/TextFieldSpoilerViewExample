@@ -6,9 +6,11 @@ import SwiftUI
 
 @main
 struct SpoilerViewExampleApp: App {
-    var body: some Scene {
-        WindowGroup {
-            ContentView()
-        }
+  
+  var body: some Scene {
+    WindowGroup {
+      ContentView()
     }
+  }
+  
 }
